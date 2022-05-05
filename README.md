@@ -7,6 +7,7 @@ I have a background in medicine 🚑, statistics 📈, and psychology 🧠, but 
 
 <a href="https://www.linkedin.com/in/tony-fu-847b5878/" target="_blank"><img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
+
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />
