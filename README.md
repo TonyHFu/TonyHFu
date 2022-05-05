@@ -8,7 +8,7 @@ I have a background in medicine 🚑, statistics 📈, and psychology 🧠, but 
 <a href="https://www.linkedin.com/in/tony-fu-847b5878/" target="_blank" ><img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
   
 
-<a href="https://tonyfu.netlify.app/" target="_blank" ><img align="left" alt="Web" width="26px" src="https://github.com/TonyHFu/TonyHFu/blob/main/world-globe.png" style="padding-right:10px;" /></a>. 
+<a href="https://tonyfu.netlify.app/" target="_blank" ><img align="left" alt="Web" width="26px" src="https://github.com/TonyHFu/TonyHFu/blob/main/world-globe.png" style="padding-right:10px;" /></a> 
 
   
   
