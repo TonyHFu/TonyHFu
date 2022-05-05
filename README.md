@@ -3,9 +3,26 @@
 
 I have a background in medicine 🚑, statistics 📈, and psychology 🧠, but my favourite thing to do is building applications. My favourite applications to build combine web development with machine learning.
 
-###Languages and Tools:
+### Languages and Tools:
 
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Rails" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rails/rails-plain.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Ruby" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="SASS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="ThreeJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/threejs/threejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CircleCI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/circleci/circleci-plain.svg" style="padding-right:10px;" />]
+
+
+
+
+
 
 
 
