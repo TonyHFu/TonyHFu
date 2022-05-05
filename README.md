@@ -1,4 +1,9 @@
 ### Hi there 👋
+## My name is Tony and I am a Full-Stack Developer
+
+I have a background in medicine, statistics, and psychology but my favourite thing to do is building applications. My favourite applications to build combine web development with machine learning.
+
+
 
 <!--
 **TonyHFu/TonyHFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
