@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Tony and I am a Full-Stack Developer
+## My name is Tony and I am a Software Developer / Data scientist
 
 I have a background in medicine 🚑, statistics 📈, and psychology 🧠, but my favourite thing to do is building applications. My favourite applications to build combine web development with machine learning.
 
